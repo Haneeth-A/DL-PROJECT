@@ -1,0 +1,2 @@
+File: C:\IIIT Raichur\Projects\DL Project\Data\Raw\RE-FUSED_India_Datasets_v1.0\RE-FUSED\India_Grid_Study\data\processed\refused_state_day.parquet
+SHA256: 0b36fa40160128c83555240319a9a1f219b5ef18ce1fa894d53cb4bd2a38e747

@@ -1,0 +1,7 @@
+{
+    "demand": "No interpolation performed",
+    "weather": "No interpolation performed",
+    "other_variables": "No interpolation performed",
+    "missing_values": "Preserved as missing",
+    "future_modeling_policy": "Imputation or missing-window handling must be implemented inside the training pipeline using leakage-safe rules."
+}

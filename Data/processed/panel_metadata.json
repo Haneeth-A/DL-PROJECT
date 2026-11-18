@@ -1,0 +1,17 @@
+{
+    "project": "DL Project",
+    "dataset_source": "C:\\IIIT Raichur\\Projects\\DL Project\\Data\\Raw\\RE-FUSED_India_Datasets_v1.0\\RE-FUSED\\India_Grid_Study\\data\\processed\\refused_state_day.parquet",
+    "panel_file": "C:\\IIIT Raichur\\Projects\\DL Project\\data\\processed\\panel.parquet",
+    "created_at": "2026-11-18T17:06:55.499593",
+    "date_column": "date",
+    "entity_column": "entity",
+    "target_column": "dem_energy_met_gwh",
+    "start_date": "2020-01-01",
+    "end_date": "2025-12-31",
+    "entity_count": 34,
+    "panel_rows": 74528,
+    "panel_columns": 107,
+    "source_sha256": "0b36fa40160128c83555240319a9a1f219b5ef18ce1fa894d53cb4bd2a38e747",
+    "interpolation": "None performed",
+    "flow_columns": []
+}

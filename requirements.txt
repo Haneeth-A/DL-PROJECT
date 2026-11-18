@@ -1,0 +1,13 @@
+torch>=2.4
+numpy>=1.26
+pandas>=2.2
+pyarrow>=15.0
+scipy>=1.11
+statsmodels>=0.14
+scikit-learn>=1.4
+matplotlib>=3.8
+seaborn>=0.13
+pyyaml>=6.0
+requests>=2.31
+tqdm>=4.66
+pytest>=8.0

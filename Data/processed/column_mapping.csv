@@ -1,0 +1,108 @@
+column,category
+entity,Entity identifier
+date,Temporal identifier
+region,Entity identifier
+bid_area,Other / requires investigation
+pilot18,Other / requires investigation
+dem_energy_met_gwh,Target: daily energy demand
+dev_drawal_schedule_gwh,Deviation-related variable
+dev_od_ud_gwh,Deviation-related variable
+dem_energy_shortage_gwh,Demand-related variable
+dem_peak_shortage_mw,Demand-related variable
+dem_max_demand_mw,Demand-related variable
+dev_max_od_mw,Deviation-related variable
+dev_max_ud_mw,Deviation-related variable
+avail_psp,Other / requires investigation
+qc_energy_met,Other / requires investigation
+qc_max_demand,Other / requires investigation
+qc_energy_shortage,Other / requires investigation
+qc_od_ud,Other / requires investigation
+dev_actual_drawal_gwh,Deviation-related variable
+dev_abs_od_ud_gwh,Deviation-related variable
+reg_energy_met_gwh,Other / requires investigation
+reg_energy_shortage_gwh,Other / requires investigation
+reg_hydro_gwh,Other / requires investigation
+reg_ir_od_ud_gwh,Other / requires investigation
+reg_outage_total_mw,Other / requires investigation
+reg_solar_gwh,Other / requires investigation
+reg_wind_gwh,Other / requires investigation
+nat_energy_met_gwh,Other / requires investigation
+nat_energy_shortage_gwh,Other / requires investigation
+nat_hydro_gwh,Other / requires investigation
+nat_ir_od_ud_gwh,Other / requires investigation
+nat_outage_total_mw,Other / requires investigation
+nat_solar_gwh,Other / requires investigation
+nat_wind_gwh,Other / requires investigation
+sys_fvi,Other / requires investigation
+sys_pct_lt_49_7,Other / requires investigation
+sys_pct_49_7_49_8,Other / requires investigation
+sys_pct_49_8_49_9,Other / requires investigation
+sys_pct_lt_49_9,Other / requires investigation
+sys_pct_49_9_50_05,Other / requires investigation
+sys_pct_gt_50_05,Other / requires investigation
+prc_dam_acp,Other / requires investigation
+prc_dam_acp_max,Other / requires investigation
+prc_regime,Other / requires investigation
+prc_rtm_acp,Other / requires investigation
+prc_dsm_normal,Other / requires investigation
+prc_dsm_normal_max,Other / requires investigation
+prc_dsm_cap_share,Other / requires investigation
+gen_cap_mw_total,Generation-related variable
+gen_prog_gwh_total,Generation-related variable
+gen_act_gwh_total,Generation-related variable
+gen_outage_mw_total,Generation-related variable
+gen_act_gwh_coal,Generation-related variable
+gen_act_gwh_diesel,Generation-related variable
+gen_act_gwh_gas,Generation-related variable
+gen_act_gwh_hydro,Generation-related variable
+gen_act_gwh_nuclear,Generation-related variable
+gen_cap_mw_coal,Generation-related variable
+gen_cap_mw_diesel,Generation-related variable
+gen_cap_mw_gas,Generation-related variable
+gen_cap_mw_hydro,Generation-related variable
+gen_cap_mw_nuclear,Generation-related variable
+gen_outage_mw_coal,Generation-related variable
+gen_outage_mw_diesel,Generation-related variable
+gen_outage_mw_gas,Generation-related variable
+gen_outage_mw_hydro,Generation-related variable
+gen_outage_mw_nuclear,Generation-related variable
+gen_prog_gwh_coal,Generation-related variable
+gen_prog_gwh_diesel,Generation-related variable
+gen_prog_gwh_gas,Generation-related variable
+gen_prog_gwh_hydro,Generation-related variable
+gen_prog_gwh_nuclear,Generation-related variable
+gen_coal_days_capw,Temporal identifier
+gen_coal_cap_share_lt7d,Generation-related variable
+gen_coal_cap_reporting_mw,Generation-related variable
+avail_npp,Other / requires investigation
+qc_npp_capacity,Other / requires investigation
+qc_npp_station_typo,Other / requires investigation
+gen_outage_share,Generation-related variable
+gen_conv_dev_gwh,Generation-related variable
+re_all_other_re_gwh,Renewable energy variable
+re_ctrl_other_re_gwh,Renewable energy variable
+re_all_solar_gwh,Renewable energy variable
+re_ctrl_solar_gwh,Renewable energy variable
+re_all_total_re_gwh,Renewable energy variable
+re_ctrl_total_re_gwh,Renewable energy variable
+re_all_wind_gwh,Renewable energy variable
+re_ctrl_wind_gwh,Renewable energy variable
+avail_re,Other / requires investigation
+co2_emis_t_op,Other / requires investigation
+qc_co2_factor_filled_op,Other / requires investigation
+co2_emis_t_acc,Other / requires investigation
+qc_co2_factor_filled_acc,Other / requires investigation
+co2_ci_conv_op,Other / requires investigation
+co2_ci_gen_acc,Generation-related variable
+co2_ci_cons_acc,Other / requires investigation
+wx_tmax_c,Weather: maximum temperature
+wx_tmin_c,Weather: minimum temperature
+wx_rain_mm,Weather: rainfall
+wx_tmean_c,Weather: mean temperature
+wx_cdd24,Weather: cooling degree days
+wx_hdd18,Weather: heating degree days
+cal_dow,Other / requires investigation
+cal_month,Other / requires investigation
+cal_doy,Other / requires investigation
+cal_fy,Other / requires investigation
+split,Other / requires investigation

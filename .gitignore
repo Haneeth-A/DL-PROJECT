@@ -1,0 +1,34 @@
+# Environments
+.venv/
+venv/
+env/
+.conda/
+
+# IDE
+.idea/
+.vscode/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ipynb_checkpoints/
+.ruff_cache/
+.mypy_cache/
+
+# Raw data: never commit (size + redistribution)
+Data/Raw/
+
+# Duplicate EDA tree created by a nested run; keep the canonical EDA/outputs
+EDA/EDA/
+
+# Large or machine-specific artefacts
+*.log
+*.pt
+*.pth
+*.ckpt
+
+# OS
+.DS_Store
+Thumbs.db

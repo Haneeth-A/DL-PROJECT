@@ -1,0 +1,5 @@
+split,total_records,missing_demand,available_demand,missing_percentage
+dev_test,12410,68,12342,0.547945205479452
+reserved,9350,0,9350,0.0
+train,40324,2246,38078,5.569883940085309
+validation,12444,1,12443,0.008036001285760205
